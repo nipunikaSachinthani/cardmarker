@@ -1,0 +1,4 @@
+#Thu Jan 24 01:25:39 IST 2019
+base.0=E\:\\React_Native\\cardmarker\\android\\.build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
